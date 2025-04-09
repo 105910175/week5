@@ -21,7 +21,7 @@ body {
     padding-right: 20%;
     margin: 0;
     padding-top: 0;
-    font-family: sans-serif; /* Or your preferred font */
+    font-family: sans-serif;
     line-height: 1.5;
 }
 
@@ -38,7 +38,7 @@ h1 {
 }
 
 h2 {
-    color: rgb(0, 128, 128); /* teal */
+    color: rgb(0, 128, 128); 
     font-weight: bold;
     font-size: 1.5em;
     font-family: arial, sans-serif;
@@ -61,8 +61,8 @@ table, th, td {
 #images {
     text-align: center;
     float: right;
-    width: 45%; /* Adjust width as needed */
-    margin-top: 1em; /* Add some space above the images */
+    width: 45%; 
+    margin-top: 1em; 
 }
 
 #headings {
@@ -103,7 +103,7 @@ nav a:hover {
 
 
 
-/* Style the header */
+
 header {
     border: 1px solid darkgray;
     margin: 1em;
@@ -112,7 +112,7 @@ header {
     text-align: center;
 }
 
-/* Style the aside */
+
 aside {
     border: 4px inset purple; /* A lighter border */
     border-radius: 15px;
@@ -128,7 +128,7 @@ aside h3 {
     margin-top: 0;
 }
 
-/* Style the menu paragraphs */
+
 .menu {
     display: inline-block;
     margin-right: 10px; /* Add some spacing between menu items */
@@ -205,7 +205,7 @@ th {
     height: auto;
 }
 
-/* Style the footer */
+
 footer {
     border-top: 4px double teal;
     clear: both; 
